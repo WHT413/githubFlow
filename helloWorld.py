@@ -1,4 +1,5 @@
 print("Hello world!")
 
-print("My name is Hieu")
+age = 19
+print(f"Age: {age}")
 
